@@ -97,7 +97,6 @@
 	<phrase section="default" code="commentemail">Email:</phrase>
 	<phrase section="default" code="commentdata">Comments:</phrase>
 	<phrase section="default" code="commentconfirmation">Thank you for your feedback. Your comment will appear once it has been approved.</phrase>
-	<phrase section="default" code="commentconfirmation_approved">Thank you for your feedback.</phrase>
 	<phrase section="default" code="reply">Reply</phrase>
 	<phrase section="default" code="filternews">News Categories</phrase>
 	<phrase section="default" code="filterkb">Knowledgebase</phrase>

@@ -65,7 +65,6 @@
 <phrase section="livechatclient" code="clicktocalltab"><![CDATA[Click to Call]]></phrase>
 <phrase section="default" code="close"><![CDATA[Close]]></phrase>
 <phrase section="default" code="commentconfirmation"><![CDATA[Thank you for your feedback. Your comment will appear once it has been approved.]]></phrase>
-<phrase section="default" code="commentconfirmation_approved"><![CDATA[Thank you for your feedback.]]></phrase>
 <phrase section="default" code="commentdata"><![CDATA[Comments:]]></phrase>
 <phrase section="default" code="commentemail"><![CDATA[Email: ]]></phrase>
 <phrase section="default" code="commentfullname"><![CDATA[Full Name:]]></phrase>
