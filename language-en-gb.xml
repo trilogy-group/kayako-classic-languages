@@ -8,6 +8,8 @@
 <textdirection><![CDATA[LTR]]></textdirection>
 <flagicon><![CDATA[{$themepath}gb.gif]]></flagicon>
 <version>0</version>
+<phrase section="default" code="wrong_profile_image">The profile image was not updated. Wrong format.</phrase>
+<phrase section="default" code="wrong_image_size">The image size is bigger than the allowed upload size.</phrase>
 <phrase section="users" code="accountinformation"><![CDATA[Account Information]]></phrase>
 <phrase section="ticketemails" code="acfinalintro"><![CDATA[This message is regarding your ticket ID #%s. We are changing the status of this ticket to %s as we have not heard back from you in %s hours.]]></phrase>
 <phrase section="ticketemails" code="acfinalsubfooter"><![CDATA[If you have any further questions then do let us know. You can check the status of or reply to this ticket online at: ]]></phrase>
@@ -65,6 +67,7 @@
 <phrase section="livechatclient" code="clicktocalltab"><![CDATA[Click to Call]]></phrase>
 <phrase section="default" code="close"><![CDATA[Close]]></phrase>
 <phrase section="default" code="commentconfirmation"><![CDATA[Thank you for your feedback. Your comment will appear once it has been approved.]]></phrase>
+<phrase section="default" code="commentconfirmation_approved"><![CDATA[Thank you for your feedback.]]></phrase>
 <phrase section="default" code="commentdata"><![CDATA[Comments:]]></phrase>
 <phrase section="default" code="commentemail"><![CDATA[Email: ]]></phrase>
 <phrase section="default" code="commentfullname"><![CDATA[Full Name:]]></phrase>
@@ -236,6 +239,7 @@ Thank you,
 <phrase section="livechatclient" code="pleasewaitoperator"><![CDATA[Please wait and one of our operators will be with you shortly.]]></phrase>
 <phrase section="mime" code="png"><![CDATA[PNG Image]]></phrase>
 <phrase section="default" code="postedby"><![CDATA[Posted by]]></phrase>
+<phrase section="default" code="posted"><![CDATA[Posted]]></phrase>
 <phrase section="default" code="postnewcomment"><![CDATA[Post a new comment]]></phrase>
 <phrase section="default" code="poweredby"><![CDATA[Powered by Kayako Help Desk Software]]></phrase>
 <phrase section="mime" code="ppt"><![CDATA[PowerPoint Doc]]></phrase>

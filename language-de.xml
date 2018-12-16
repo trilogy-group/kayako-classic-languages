@@ -9,6 +9,8 @@
 <flagicon><![CDATA[{$themepath}de.gif]]></flagicon>
 <version>0</version>
 
+<phrase section="default" code="wrong_profile_image"><![CDATA[Das Profilbild wurde nicht aktualisiert. Falsches Format.]]></phrase>
+<phrase section="default" code="wrong_image_size"><![CDATA[Die Bildgröße ist größer als die zulässige Uploadgröße.]]></phrase>
 <phrase section="users" code="accountinformation"><![CDATA[Kontoinformation]]></phrase>
 <phrase section="ticketemails" code="acfinalintro"><![CDATA[Diese Nachricht bezieht sich auf Ihre Ticket-ID #% s. Wir ändern den Status dieses Tickets in % s, da wir in % s Stunden nicht von Ihnen gehört haben. ]]></phrase>
 <phrase section="ticketemails" code="acfinalsubfooter"><![CDATA[Haben Sie noch Fragen, dann lassen Sie es uns wissen. Sie können den Status oder die Antwort auf dieses Ticket online überprüfen auf: ]]></phrase>
@@ -231,6 +233,7 @@ Vielen Dank,
 <phrase section="livechatclient" code="pleasewaitoperator"><![CDATA[Bitte haben Sie einen Augenblick Geduld. Einer unserer Mitarbeiter wird in Kürze bei Ihnen sein.]]></phrase>
 <phrase section="mime" code="png"><![CDATA[PNG-Datei]]></phrase>
 <phrase section="default" code="postedby"><![CDATA[Gepostet von]]></phrase>
+<phrase section="default" code="posted"><![CDATA[Gepostet]]></phrase>
 <phrase section="default" code="postnewcomment"><![CDATA[Neues Kommentar posten]]></phrase>
 <phrase section="default" code="poweredby"><![CDATA[Powered by Kayako Help Desk Software]]></phrase>
 <phrase section="mime" code="ppt"><![CDATA[PowerPoint-Doc]]></phrase>

@@ -8,6 +8,8 @@
 <textdirection><![CDATA[LTR]]></textdirection>
 <flagicon><![CDATA[{$themepath}ru.gif]]></flagicon>
 <version>0</version>
+<phrase section="default" code="wrong_profile_image"><![CDATA[Изображение профиля не обновлялось. Неверный формат.]]></phrase>
+<phrase section="default" code="wrong_image_size"><![CDATA[Размер изображения больше разрешенного размера загрузки.]]></phrase>
 <phrase section="users" code="accountinformation"><![CDATA[Информация об учетной записи]]></phrase>
 <phrase section="ticketemails" code="acfinalintro"><![CDATA[Сообщение по запросу ID #%s. Статус изменен на '%s' так как мы не получили от Вас ответа в течение %s часов.]]></phrase>
 <phrase section="ticketemails" code="acfinalsubfooter"><![CDATA[Если у вас есть какие-либо вопросы, дайте нам знать. Вы можете проверить статус или ответить на эту заявку онлайн: ]]></phrase>
@@ -231,6 +233,7 @@
 <phrase section="livechatclient" code="pleasewaitoperator"><![CDATA[Пожалуйста подождите, наш оператор скоро свяжется с Вами.]]></phrase>
 <phrase section="mime" code="png"><![CDATA[PNG Изображение]]></phrase>
 <phrase section="default" code="postedby"><![CDATA[Автор]]></phrase>
+<phrase section="default" code="posted"><![CDATA[Автор]]></phrase>
 <phrase section="default" code="postnewcomment"><![CDATA[Добавить новый комментарий]]></phrase>
 <phrase section="default" code="poweredby"><![CDATA[Работает под управлением системы Kayako]]></phrase>
 <phrase section="mime" code="ppt"><![CDATA[PowerPoint Документ]]></phrase>

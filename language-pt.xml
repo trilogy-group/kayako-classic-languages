@@ -8,6 +8,8 @@
 <textdirection><![CDATA[LTR]]></textdirection>
 <flagicon><![CDATA[{$themepath}pt.gif]]></flagicon>
 <version>0</version>
+<phrase section="default" code="wrong_profile_image"><![CDATA[A imagem do perfil não foi atualizada. Formato incorreto.]]></phrase>
+<phrase section="default" code="wrong_image_size"><![CDATA[O tamanho da imagem é maior que o tamanho de upload permitido.]]></phrase>
 <phrase section="users" code="accountinformation"><![CDATA[Informações da conta]]></phrase>
 <phrase section="ticketemails" code="acfinalintro"><![CDATA[Esta mensagem diz respeito ao seu ID de pedido de suporte n.º %s. Uma vez que não obtivemos qualquer resposta sua em %s horas, estamos a alterar o estado deste pedido de suporte para %s.]]></phrase>
 <phrase section="ticketemails" code="acfinalsubfooter"><![CDATA[Se tiver mais questões, informe-nos. Pode verificar o estado ou responder a este pedido de suporte online em: ]]></phrase>
@@ -230,6 +232,7 @@ Obrigado,
 <phrase section="livechatclient" code="pleasewaitoperator"><![CDATA[Aguarde e um dos nossos operadores entrará em contacto consigo em breve.]]></phrase>
 <phrase section="mime" code="png"><![CDATA[Imagem PNG]]></phrase>
 <phrase section="default" code="postedby"><![CDATA[Publicado por]]></phrase>
+<phrase section="default" code="posted"><![CDATA[Publicado]]></phrase>
 <phrase section="default" code="postnewcomment"><![CDATA[Publicar um novo comentário]]></phrase>
 <phrase section="default" code="poweredby"><![CDATA[Com tecnologia Kayako Help Desk Software]]></phrase>
 <phrase section="mime" code="ppt"><![CDATA[Documento PowerPoint]]></phrase>

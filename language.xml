@@ -9,6 +9,8 @@
 	<flagicon>{$themepath}us.gif</flagicon>
 	<app>base</app>
 
+	<phrase section="default" code="wrong_profile_image">The profile image was not updated. Wrong format.</phrase>
+	<phrase section="default" code="wrong_image_size">The image size is bigger than the allowed upload size.</phrase>
 	<phrase section="default" code="widgethome">Home</phrase>
 	<phrase section="default" code="widgetregister">Register</phrase>
 	<phrase section="default" code="widgetviewtickets">My Tickets</phrase>
@@ -86,6 +88,7 @@
 	<phrase section="default" code="captchadesc">Please enter the text you see in the image into the textbox below (we use this to prevent automated submissions).</phrase>
 	<phrase section="default" code="latestupdates">Latest Updates</phrase>
 	<phrase section="default" code="postedby">Posted by</phrase>
+	<phrase section="default" code="posted">Posted</phrase>
 	<phrase section="default" code="loggedinfromstaff">Logged in as: %s</phrase>
 	<phrase section="default" code="on">on</phrase>
 	<phrase section="default" code="readmore"><![CDATA[Read more]]></phrase>
@@ -98,6 +101,7 @@
 	<phrase section="default" code="commentemail">Email:</phrase>
 	<phrase section="default" code="commentdata">Comments:</phrase>
 	<phrase section="default" code="commentconfirmation">Thank you for your feedback. Your comment will appear once it has been approved.</phrase>
+	<phrase section="default" code="commentconfirmation_approved">Thank you for your feedback.</phrase>
 	<phrase section="default" code="reply">Reply</phrase>
 	<phrase section="default" code="filternews">News Categories</phrase>
 	<phrase section="default" code="filterkb">Knowledgebase</phrase>

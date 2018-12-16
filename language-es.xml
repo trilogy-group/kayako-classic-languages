@@ -8,6 +8,8 @@
 <textdirection><![CDATA[LTR]]></textdirection>
 <flagicon><![CDATA[{$themepath}es.gif]]></flagicon>
 <version>0</version>
+<phrase section="default" code="wrong_profile_image"><![CDATA[La imágen de perfil no pudo ser actualizada. Formato inválido.]]></phrase>
+<phrase section="default" code="wrong_image_size"><![CDATA[El tamaño de la imágen es mayor que el máximo permitido.]]></phrase>
 <phrase section="users" code="accountinformation"><![CDATA[Información de la cuenta]]></phrase>
 <phrase section="ticketemails" code="acfinalintro"><![CDATA[Este es un mensaje en relación con su ticket, ID nº%s. Procedemos a cambiar es estado de este ticket a %s al no haber tenido noticias de usted en %s horas.]]></phrase>
 <phrase section="ticketemails" code="acfinalsubfooter"><![CDATA[Si tiene cualquier duda, háganoslo saber. Puede comprobar el estado de su ticket o responder al ticket en línea en: ]]></phrase>
@@ -229,7 +231,8 @@ Muchas gracias,
 <phrase section="default" code="pleasetypeyourquestion"><![CDATA[¿En qué podemos ayudarle?]]></phrase>
 <phrase section="livechatclient" code="pleasewaitoperator"><![CDATA[Por favor, espere. En breve, uno de nuestros operadores le atenderá.]]></phrase>
 <phrase section="mime" code="png"><![CDATA[Imagen PNG]]></phrase>
-<phrase section="default" code="postedby"><![CDATA[Publicado por]]></phrase>
+<phrase section="default" code="postedby"><![CDATA[Publicado]]></phrase>
+<phrase section="default" code="posted"><![CDATA[Publicado por]]></phrase>
 <phrase section="default" code="postnewcomment"><![CDATA[Publicar un nuevo comentario]]></phrase>
 <phrase section="default" code="poweredby"><![CDATA[Con la tecnología del software de helpdesk de Kayako]]></phrase>
 <phrase section="mime" code="ppt"><![CDATA[Documento de PowerPoint]]></phrase>

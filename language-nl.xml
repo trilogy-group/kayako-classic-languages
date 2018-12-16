@@ -8,6 +8,8 @@
 <textdirection><![CDATA[LTR]]></textdirection>
 <flagicon><![CDATA[{$themepath}nl.gif]]></flagicon>
 <version>0</version>
+<phrase section="default" code="wrong_profile_image"><![CDATA[De profielafbeelding is niet bijgewerkt. Verkeerd formaat.]]></phrase>
+	<phrase section="default" code="wrong_image_size"><![CDATA[De afbeeldingsgrootte is groter dan de toegestane uploadgrootte.]]></phrase>
 <phrase section="users" code="accountinformation"><![CDATA[Accountgegevens]]></phrase>
 <phrase section="ticketemails" code="acfinalintro"><![CDATA[Dit bericht betreft uw ticket met ID #%s.  We wijzigen de status van deze ticket naar %s, omdat we niet van je terug hebben gehoord binnen %s uur.]]></phrase>
 <phrase section="ticketemails" code="acfinalsubfooter"><![CDATA[Als je verder nog vragen hebt, laat het ons dan weten. Je kunt de status van of antwoord op deze ticket online bekijken op: ]]></phrase>
@@ -227,6 +229,7 @@ Bedankt,]]></phrase>
 <phrase section="livechatclient" code="pleasewaitoperator"><![CDATA[Wacht even, een van onze operators is zo bij je.]]></phrase>
 <phrase section="mime" code="png"><![CDATA[PNG-afbeelding]]></phrase>
 <phrase section="default" code="postedby"><![CDATA[Geplaatst door]]></phrase>
+<phrase section="default" code="posted"><![CDATA[Geplaatst]]></phrase>
 <phrase section="default" code="postnewcomment"><![CDATA[Nieuwe reactie plaatsen]]></phrase>
 <phrase section="default" code="poweredby"><![CDATA[Powered by Kayako Help Desk Software]]></phrase>
 <phrase section="mime" code="ppt"><![CDATA[PowerPoint-document]]></phrase>
