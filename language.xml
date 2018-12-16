@@ -77,6 +77,7 @@
 	<phrase section="default" code="buttonback"><![CDATA[Back]]></phrase>
 	<phrase section="default" code="generalinformation">General Information</phrase>
 	<phrase section="default" code="invalidemail">The email address entered is not valid</phrase>
+	<phrase section="default" code="invalidhtmltags">Invalid HTML Tags entered</phrase>
 	<phrase section="default" code="nopermission">Sorry, you do not have permission to carry out this action.</phrase>
 	<phrase section="default" code="hidden">[ Hidden ]</phrase>
 	<phrase section="default" code="private">[ Private ]</phrase>

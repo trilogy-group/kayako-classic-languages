@@ -124,6 +124,7 @@ Thank you,
 <phrase section="mime" code="ico"><![CDATA[Icon File]]></phrase>
 <phrase section="tickets" code="invalidattachments"><![CDATA[Unfortunately, we couldn't accept your attachments (either too large or due to file type restrictions): %s]]></phrase>
 <phrase section="default" code="invalidemail"><![CDATA[The email address entered is not valid]]></phrase>
+<phrase section="default" code="invalidhtmltags"><![CDATA[Invalid HTML Tags entered]]></phrase>
 <phrase section="users" code="invalidorganization"><![CDATA[We encountered a problem (this organization does not exist)]]></phrase>
 <phrase section="users" code="loginlogerror"><![CDATA[Login locked for %d minutes (attempt: %d of %d)]]></phrase>
 <phrase section="users" code="loginlogwarning"><![CDATA[Invalid username or password (attempt: %d of %d)]]></phrase>

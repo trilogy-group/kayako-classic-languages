@@ -125,6 +125,7 @@
 <phrase section="mime" code="ico"><![CDATA[Файл значка]]></phrase>
 <phrase section="tickets" code="invalidattachments"><![CDATA[Вложение запрещено (из-за размера/расширения): %s]]></phrase>
 <phrase section="default" code="invalidemail"><![CDATA[Введеный адрес электронной почты не действителен]]></phrase>
+<phrase section="default" code="invalidhtmltags"><![CDATA[Введен неверный HTML-тэг]]></phrase>
 <phrase section="users" code="invalidorganization"><![CDATA[Такой организации не существует. Свяжитесь со Службой Поддержки.]]></phrase>
 <phrase section="news" code="invalidsubscriberhash"><![CDATA[Неверный хэш подписки]]></phrase>
 <phrase section="default" code="invaliduser"><![CDATA[Неверный адрес электронной почты или пароль]]></phrase>

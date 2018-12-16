@@ -123,6 +123,7 @@ Merci,
 <phrase section="mime" code="ico"><![CDATA[Fichier d'icône]]></phrase>
 <phrase section="tickets" code="invalidattachments"><![CDATA[Malheureusement, nous n'avons pas pu accepter vos pièces jointes (taille excessive du fichier ou type de fichier non autorisé) : %s]]></phrase>
 <phrase section="default" code="invalidemail"><![CDATA[L'adresse email saisie n'est pas valide]]></phrase>
+<phrase section="default" code="invalidhtmltags"><![CDATA[Tags HTML non valides entrés]]></phrase>
 <phrase section="users" code="invalidorganization"><![CDATA[Nous avons rencontré un problème (cette organisation n'existe pas)]]></phrase>
 <phrase section="news" code="invalidsubscriberhash"><![CDATA[Nous avons rencontré un problème (hach de l'abonné non valide)]]></phrase>
 <phrase section="default" code="invaliduser"><![CDATA[Email ou mot de passe non valide]]></phrase>

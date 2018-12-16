@@ -121,6 +121,7 @@ Bedankt,]]></phrase>
 <phrase section="mime" code="ico"><![CDATA[Pictogrambestand]]></phrase>
 <phrase section="tickets" code="invalidattachments"><![CDATA[We konden je bijlagen helaas niet accepteren (te groot of vanwege bestandstypebeperkingen): %s]]></phrase>
 <phrase section="default" code="invalidemail"><![CDATA[Het opgegeven emailadres is ongeldig]]></phrase>
+<phrase section="default" code="invalidhtmltags"><![CDATA[Ongeldige HTML-tags ingevoerd]]></phrase>
 <phrase section="users" code="invalidorganization"><![CDATA[Er is een probleem opgetreden (deze organisatie bestaat niet)]]></phrase>
 <phrase section="news" code="invalidsubscriberhash"><![CDATA[Er is een probleem opgetreden (ongeldige abonneehash)]]></phrase>
 <phrase section="default" code="invaliduser"><![CDATA[Ongeldig emailadres of wachtwoord]]></phrase>

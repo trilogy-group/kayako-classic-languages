@@ -124,6 +124,7 @@ Grazie,
 <phrase section="mime" code="ico"><![CDATA[File Icona]]></phrase>
 <phrase section="tickets" code="invalidattachments"><![CDATA[Purtroppo, non potevamo accettare gli allegati (forse sono troppo grandi o violano le restrizioni per i tipi di file): %s]]></phrase>
 <phrase section="default" code="invalidemail"><![CDATA[L'indirizzo email inserito non è valido]]></phrase>
+<phrase section="default" code="invalidhtmltags"><![CDATA[Tag HTML non validi inseriti]]></phrase>
 <phrase section="users" code="invalidorganization"><![CDATA[Abbiamo riscontrato un problema (questa organizzazione non esiste)]]></phrase>
 <phrase section="news" code="invalidsubscriberhash"><![CDATA[Abbiamo riscontrato un problema (l'hash dell'abbonato non è valido)]]></phrase>
 <phrase section="default" code="invaliduser"><![CDATA[Email o password non valida]]></phrase>

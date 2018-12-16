@@ -125,6 +125,7 @@ Vielen Dank,
 <phrase section="mime" code="ico"><![CDATA[Symboldatei]]></phrase>
 <phrase section="tickets" code="invalidattachments"><![CDATA[Leider konnten wir Ihre Anhänge nicht akzeptieren (entweder wegen ihrer Größe oder wegen Einschränkungen des Datei-Typs): %s]]></phrase>
 <phrase section="default" code="invalidemail"><![CDATA[Die eingegebene E-Mail-Adresse ist nicht gültig]]></phrase>
+<phrase section="default" code="invalidhtmltags"><![CDATA[Ungültige HTML-Tags eingegeben]]></phrase>
 <phrase section="users" code="invalidorganization"><![CDATA[Ein Problem ist aufgetreten (diese Organisation existiert nicht)]]></phrase>
 <phrase section="news" code="invalidsubscriberhash"><![CDATA[Ein Problem ist aufgetreten (ungültiges Abonnenten-Hash)]]></phrase>
 <phrase section="default" code="invaliduser"><![CDATA[Ungültige E-Mail oder Passwort]]></phrase>
